@@ -12,5 +12,6 @@ public class DestinRunner {
             System.out.println("Hello" + personName);
         }
         System.out.println("beware of the destin clones they might take over the world");
+        System.out.println("also beware of the stillness that coding can give you")
     }
 }
