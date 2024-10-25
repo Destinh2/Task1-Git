@@ -6,5 +6,10 @@ public class DestinRunner {
         System.out.println("Hello my name is destin what is urs?");
         String personName = scan.nextLine();
         System.out.println(personName);
+        if (personName.equals("Destin")) {
+            System.out.println("you are the gratest person in the world");
+        } else {
+            System.out.println("Hello" + personName);
+        }
     }
 }
